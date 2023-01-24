@@ -1,0 +1,10 @@
+.movie-container {
+  position: relative;
+  z-index: 10;
+
+  .movie-item {
+    h2 {
+      text-transform: uppercase;
+    }
+  }
+}
