@@ -13,7 +13,7 @@ export default class HomePage extends Component {
               <div className="movie-col col-lg-8">
                 <div className="movie-item text-center">
                   <h2 className="text-white ">
-                    Đặt vé xem phim tại cyberlearn.vn
+                    Đặt vé xem phim tại cyberlearn.com.vn
                   </h2>
                   <p className="text-white">Màn hình</p>
                   <div className="screen"></div>
